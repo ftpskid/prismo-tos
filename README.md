@@ -2,19 +2,19 @@
 
 **Last Updated:** March 2025  
 
-By using Waguri, you agree to the following Terms of Service. If you do not agree, please stop using the bot.  
+By using Prismo, you agree to the following Terms of Service. If you do not agree, please stop using the bot.  
 
 ---
 
 ## **1. Usage Terms**  
-- Waguri is a public Discord bot designed for moderation, fun, utility, and music.  
+- Prismo is a public Discord bot designed for moderation, fun, utility, and music.  
 - You must comply with [Discord's Terms of Service](https://discord.com/terms) while using Waguri.  
 - You may not use Waguri for illegal, harmful, or malicious activities, including harassment, spamming, or abuse.  
 
 ---
 
 ## **2. Data Collection & Privacy**  
-Waguri stores necessary data to provide its features, including:  
+Prismo stores necessary data to provide its features, including:  
 
 - **Guild Name**  
 - **Guild ID**  
