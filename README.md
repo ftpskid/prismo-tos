@@ -1,4 +1,4 @@
-# **Waguri Bot - Terms of Service**  
+# **Prismo - Terms of Service**  
 
 **Last Updated:** March 2025  
 
