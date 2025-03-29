@@ -35,7 +35,7 @@ We **do not** share your data with third parties or use it for commercial purpos
 ---
 
 ## **4. Termination & Ban Policy**  
-- We reserve the right to **ban users or servers** from using Waguri if they violate these terms.  
+- We reserve the right to **ban users or servers** from using Prismo if they violate these terms.  
 - Abuse, exploitation, or attempts to harm the bot will result in **immediate termination** of access.  
 
 ---
